@@ -1,0 +1,2 @@
+variety_name,forecast_week,horizon,horizon_week,wape,accuracy,forecast_stability_index,bias,total_forecast,total_harvest,forecast_kind,n_fields
+Athena,2026-W01,1,2026-W01,0.4712199166595799,1.3755612722170252,,0.37556127221702523,647009.0,470360.0,raw,6
