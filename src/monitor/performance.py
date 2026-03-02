@@ -536,10 +536,10 @@ if __name__ == "__main__":
             logger.debug(f"Processing FARM - {farm}")
             horn = HorizonPerformance(
                 farm_id=farm,
-                horizon_week="2026-W07",
+                horizon_week="2026-W08",
                 max_horizon=4,
                 forecast_kind=kind,
-                output_dir="2026-W07",
+                output_dir="2026-W08",
             )
             field_df, variety_df, horizon_df = horn.calculate_outputs()
 
